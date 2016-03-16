@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steadyx/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steadyx/portfolio/issues"
+  },
+  "homepage": "https://github.com/Steadyx/portfolio#readme",
+  "dependencies": {
+    "autoprefixer": "^6.3.3",
+    "gulp": "^3.9.1",
+    "node-static": "^0.7.7",
+    "postcss": "^5.0.19"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.3",
+    "gulp-uglify": "^1.5.3"
+  }
+}
